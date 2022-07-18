@@ -399,6 +399,8 @@ rejectPromise
 */
 ```
 
+<br />
+
 ### Promise.resolve(), Promise.reject()
 
 - 「Promise.resolve(1)」は以下のコードの省略
